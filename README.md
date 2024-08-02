@@ -16,7 +16,7 @@ Welcome to the Social Media Admin Dashboard! This project is a modern, responsiv
 
 ## Demo
 
-Check out the live demo of the dashboard [here](https://your-demo-link.com).
+Check out the live demo of the dashboard [here] https://ifrahsarfraz.github.io/social-media-dashboard-/.
 
 ### Usage
 
@@ -74,5 +74,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or suggestions, feel free to reach out:
 
 - *Email*: ifrahsarfraz02@gmail.com
-- *LinkedIn*: (https://www.linkedin.com/in/ifrah-sarfraz-597b62289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
+- *LinkedIn*: https://www.linkedin.com/in/ifrah-sarfraz-597b62289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 - *GitHub*: https://github.com/IfrahSarfraz
