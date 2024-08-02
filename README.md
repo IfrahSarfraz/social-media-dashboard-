@@ -16,7 +16,8 @@ Welcome to the Social Media Admin Dashboard! This project is a modern, responsiv
 
 ## Demo
 
-Check out the live demo of the dashboard [here] (https://ifrahsarfraz.github.io/social-media-dashboard-/).
+Check out the live demo of the dashboard [here](https://your-demo-link.com).
+
 
 ### Usage
 
